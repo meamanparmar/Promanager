@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="1919" height="777/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/c57a0217-0748-4952-bdad-b67057470762" alt="project-screenshot" width="1919" height="777/">
 
 <img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="1919" height="777/">
 
