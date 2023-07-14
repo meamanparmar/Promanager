@@ -15,7 +15,7 @@
 
 
 
-
+<img src= "https://github.com/meamanparmar/vps-school-website/assets/119149607/5c4f0634-42ae-4369-8601-6e90b4cc7c76" alt="project-screenshot" width="1908" height="707/">
 <img src="https://github.com/meamanparmar/Promanager/assets/119149607/71acfd9a-82c8-4271-a413-3350bb0fb096" alt="project-screenshot" width="1908" height="707/">
 
 <img src="https://github.com/meamanparmar/Promanager/assets/119149607/ac2dff30-b6df-449e-ac87-7a0b1c5f8c3d" alt="project-screenshot" width="1908" height="707/">
