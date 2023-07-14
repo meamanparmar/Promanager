@@ -10,17 +10,17 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="1900" height="700/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="1919" height="777/">
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/983b4544-e1ad-4285-80b0-1306966ad910" alt="project-screenshot" width="1919" height="777/">
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/b8e62404-0d17-4e65-ae60-9690e0599427" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/b8e62404-0d17-4e65-ae60-9690e0599427" alt="project-screenshot" width="1919" height="777/">
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/d2d98907-91ea-4c9c-a079-59deaa7d50bd" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/d2d98907-91ea-4c9c-a079-59deaa7d50bd" alt="project-screenshot" width="1919" height="777/">
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/391468cf-9448-4be6-a77f-0145dd2ae025" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/391468cf-9448-4be6-a77f-0145dd2ae025" alt="project-screenshot" width="1919" height="777/">
 
-<img src="https://github.com/meamanparmar/Promanager/assets/119149607/44bee0ab-f033-497d-adfc-4397979627c5" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/meamanparmar/Promanager/assets/119149607/44bee0ab-f033-497d-adfc-4397979627c5" alt="project-screenshot" width="1919" height="777/">
 
 <h2>🛠️ Installation Steps:</h2>
 
